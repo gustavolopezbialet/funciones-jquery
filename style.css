@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    max-width: 1200px;
+    min-height: 500px;
+    margin: 0px auto;
+}
+h3{
+    font-size: medium;
+}
+
+h3:hover{
+    font-size: medium;
+    text-decoration: underline;
+}
+
+.btn{
+    margin-bottom: 5px;
+    width: auto;
+    height: auto;
+    color: white;
+    background-color: darkred;
+}
+
+#text{
+    margin-left: 10 px;
+    margin-bottom: 30px;
+}
